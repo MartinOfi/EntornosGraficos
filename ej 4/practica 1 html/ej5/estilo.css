@@ -1,0 +1,27 @@
+*{
+    width: 75%;
+}
+.top {
+    border: 1px solid black;
+    display: flex;
+    
+}
+.top header{
+    padding-left: 20px;
+}
+img{
+    width: 20%;
+    height: 90%;
+}
+header {
+    border: 1px solid black;
+}
+
+.mid {
+    border: 1px solid black;
+    display: flex
+}
+
+footer {
+    border: 1px solid black;
+}
